@@ -1,0 +1,25 @@
+.container{
+	margin: 0px; 
+}
+.counterBox { 
+
+	padding: 20px; 
+}
+body {
+	background-color: #8dece4;
+}
+h1 {
+	text-align: center; 
+	font-style: bold; 
+	font-size: 60px; 
+	color: red;
+}
+.instructions{
+	background-color: gold; 
+	margin: 20px; 
+	/*padding-right: 20px; */
+	padding: 40px; 
+}
+.randomNBox {
+	font-size: 30px; 
+}
